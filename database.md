@@ -3,3 +3,4 @@ Small databases can be stored on a file system, while large databases are hosted
 
 Reference:
 - [Hands-on Database: An Introduction to Database Design and Development]()
+- [A Practical Guide to Database Design]()
