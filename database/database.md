@@ -2,7 +2,7 @@ In computing, a [database](https://en.wikipedia.org/wiki/Database) is an organiz
 Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage.
 
 Cases:
-[Case 1](./case/1.md)
+[Case 1](./case/1/1.md)
 
 Terminology:
 
