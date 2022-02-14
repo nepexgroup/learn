@@ -14,3 +14,7 @@ Pick healthy foods that provide nutrients like vitamins, minerals, and dietary f
 
 Inspirational Projects
 - [pgadmin4](https://github.com/postgres/pgadmin4)
+
+eBooks
+- [PDF drive](https://www.pdfdrive.com/)
+- [zLibrary](https://z-lib.org/)
